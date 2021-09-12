@@ -21,9 +21,7 @@ table {
     border: "0" ;
     margin: auto ;
     
-
 }
-
 
 .first-tr{background-color: rgb(238,238,238) ;
 }
@@ -44,26 +42,3 @@ table {
     margin-top: 50px;
 }
 
-
-
-
-
-
- /* renk
-.box1{
-    background-color: rgb(126,229,218)  ;
-    border-color: white;
-    border: 5px;
-}
-.box2{
-    background-color: rgb(112,204,194);
-    
-}
-.box3{
-    background-color:  rgb(98,179,170) ;
-    border-color: white;
-    border: 5px;
-}
- 
-
-*/
